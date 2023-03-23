@@ -1,0 +1,29 @@
+
+
+
+
+.container{
+    padding: 30px;
+    background-color: cornsilk;
+    margin: 30px;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black ;
+    border-style: solid;
+    }
+    
+    
+    html body{
+    
+        background-color: coral;    
+        }
+
+
+.video1{
+
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black ;
+    border-style: solid;
+}
